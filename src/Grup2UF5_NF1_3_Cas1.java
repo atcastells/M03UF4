@@ -3,15 +3,15 @@
  */
 import UF5NF1_Cas1_Act1.*;
 import UF5NF1_Cas1_Act2.*;
-public class main {
+public class Grup2UF5_NF1_3_Cas1 {
 
     public static void main(String[] args) {
-        new main().init();
+        new Grup2UF5_NF1_3_Cas1().init();
     }
 
     public void init(){
         MiCadena asd = new MiCadena("132s");
-        numArr xifres = new numArr(new int[]{0,1,2,3,4,5,6,7,8,9});
+        NumArr xifres = new NumArr(new int[]{0,1,2,3,4,5,6,7,8,9});
 
         System.out.print(xifres.parells());
     }

@@ -3,7 +3,7 @@ package UF5NF1_Cas1_Act2;
 /**
  * Created by acastells on 18/11/16.
  */
-public class numArr {
+public class NumArr {
 
     /*Atributs*/
 
@@ -11,7 +11,7 @@ public class numArr {
 
     /*Constructor*/
 
-    public numArr(int[] valors){
+    public NumArr(int[] valors){
         this.valors = valors;
     }
 
